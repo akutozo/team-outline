@@ -1,0 +1,27 @@
+{
+  "name": "team-outline",
+  "version": "1.0.0",
+  "description": "Designed for managers to bring together team information and distribute to a single web page.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "jest": "^26.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akutozo/team-outline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akutozo/team-outline/issues"
+  },
+  "homepage": "https://github.com/akutozo/team-outline#readme"
+}
