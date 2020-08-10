@@ -25,7 +25,7 @@ test('Identification, Please', () => {
 test('Email Address', () => {
     const testEmail = "miketyson@thechamp.com"
     const employee = new Employee("Mike Tyson", 1, testEmail);
-    expect(employee.email).toBe(testEmail);
+    expect(employee.empEmail()).toBe(testEmail);
 });
 
 //Test 5
